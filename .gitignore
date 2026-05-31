@@ -1,0 +1,11 @@
+network/
+network_marl/
+result/
+weights/
+*.txt
+*.pdf
+*.py
+*.md
+MARL_Cooperative_Traffic_SUMO.ipynb
+__pycache__/
+.ipynb_checkpoints/
