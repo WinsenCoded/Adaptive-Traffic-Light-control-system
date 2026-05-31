@@ -1,7 +1,6 @@
 network/
 network_marl/
 result/
-weights/
 *.txt
 *.pdf
 *.py
